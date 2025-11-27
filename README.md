@@ -2,7 +2,7 @@
 
 A modern, full-stack web application for managing employees and tasks with an intuitive interface, real-time data synchronization, and comprehensive CRUD operations.
 
-![Application Demo](./docs/demo.webp)
+![Application Demo](./docs/dashboard.png)
 
 ## 📋 Table of Contents
 
@@ -62,14 +62,15 @@ A modern, full-stack web application for managing employees and tasks with an in
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](./docs/dashboard.webp)
+![Dashboard](./docs/dashboard.png)
 *Real-time statistics showing total employees, tasks, and status distribution with interactive charts*
 
 ### Employee Management
-![Employee Management](./docs/employees.webp)
+![Employee Management](./docs/employees.png)
 *Complete employee listing with add, edit, and delete capabilities*
 
 ### Task Management
+![Task Management](./docs/tasks.png)
 *Comprehensive task tracking with status updates and employee assignment*
 
 ## 🚀 Setup Instructions
